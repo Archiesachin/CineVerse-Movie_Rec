@@ -12,42 +12,52 @@ For eg: If the user is feeling sad then it recommends movies with Comedy or Dram
 
 <h2>Results</h2>
 
-Homepage: 
+<h2>Homepage: </h2>
 
-![Screenshot (969)](https://github.com/Archiesachin/CineVerse/assets/103347688/15e71999-3467-4c3e-93a1-294c4292dcc8)
-
-
-
-
-Content Based Filtering: 
-
-![Screenshot (970)](https://github.com/Archiesachin/CineVerse/assets/103347688/8898649f-bc9e-4f66-91bc-d6d7f3a5d862)
-
-
-![Screenshot (971)](https://github.com/Archiesachin/CineVerse/assets/103347688/4d300c28-00b6-46c2-a4fc-e2affb01ffed)
-
-
-![Screenshot (972)](https://github.com/Archiesachin/CineVerse/assets/103347688/ae1ca3b0-ff97-49a3-afc6-54a9b2fcc4e1)
-
-
-![Screenshot (973)](https://github.com/Archiesachin/CineVerse/assets/103347688/fff4c3d2-50bf-4044-b2b3-aea822bfbcb3)
-
-
-![Screenshot (974)](https://github.com/Archiesachin/CineVerse/assets/103347688/fe0e74b5-404e-4691-8150-088bc235f113)
+![Screenshot (969)](https://github.com/Archiesachin/CineVerse-Movie_Rec/assets/103347688/86f8e22f-46de-45c0-bfab-e71c05379a0d)
 
 
 
 
-Mood Based Recommendation: 
+
+<h2>Content Based Filtering:</h2>
+
+![Screenshot (970)](https://github.com/Archiesachin/CineVerse-Movie_Rec/assets/103347688/13548888-8268-483c-b466-ed26104b279a)
 
 
-![Screenshot (975)](https://github.com/Archiesachin/CineVerse/assets/103347688/dea53d48-8756-468d-8b7e-10e8d253224b)
+
+![Screenshot (971)](https://github.com/Archiesachin/CineVerse-Movie_Rec/assets/103347688/f15c2b5e-8fba-4e08-9f35-ad919e20ea83)
 
 
-![Screenshot (976)](https://github.com/Archiesachin/CineVerse/assets/103347688/2c400391-0b82-417a-bb34-fb1bf7b7015c)
+
+![Screenshot (972)](https://github.com/Archiesachin/CineVerse-Movie_Rec/assets/103347688/2acbb9ee-82ef-42a3-b296-76507fcb70f3)
 
 
-![Screenshot (977)](https://github.com/Archiesachin/CineVerse/assets/103347688/4ac9ff1a-e6d4-4f95-8958-d82ce6a68519)
+
+![Screenshot (973)](https://github.com/Archiesachin/CineVerse-Movie_Rec/assets/103347688/96e3fb7d-7b44-4cd2-b337-7a2b37857496)
+
+
+
+![Screenshot (974)](https://github.com/Archiesachin/CineVerse-Movie_Rec/assets/103347688/817a8db3-6f60-462c-9c64-def6ca2a0dc3)
+
+
+
+
+
+
+<h2>Mood Based Recommendation:</h2>
+
+
+
+![Screenshot (975)](https://github.com/Archiesachin/CineVerse-Movie_Rec/assets/103347688/7971d578-1045-40ff-ae4f-e27eabc990f8)
+
+
+
+![Screenshot (976)](https://github.com/Archiesachin/CineVerse-Movie_Rec/assets/103347688/156fe160-bbff-4c52-8286-29999811db8e)
+
+
+
+![Screenshot (977)](https://github.com/Archiesachin/CineVerse-Movie_Rec/assets/103347688/2bc80596-d450-4a01-93b9-2a1da75f2282)
 
 
 
