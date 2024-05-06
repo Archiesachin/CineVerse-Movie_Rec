@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Movie Recommendations</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- jQuery for AJAX -->
+    <script>
+      function getRecommendations() {
+        const user_id = 25; // Hardcoded user ID; you can make this dynamic
+        $.ajax({
+          type: "POST",
+          url: "http://localhost:5000/collaborative_recommendation",
+          contentType: "application/json",
+          data: JSON.stringify({ user_id: 25 }), // Sending JSON data
+          success: function (response) {
+            const recommendations = response.recommended_movies;
+            $("#recommendation_list").empty(); // Clear existing list
+            recommendations.forEach((movie) => {
+              $("#recommendation_list").append("<li>" + movie + "</li>");
+            });
+          },
+          error: function (error) {
+            console.error("Error fetching recommendations:", error);
+          },
+        });
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Collaborative Movie Recommendations</h1>
+    <button onclick="getRecommendations()">Get Recommendations</button>
+    <ul id="recommendation_list"></ul>
+    <!-- Display recommendations here -->
+  </body>
+</html>
